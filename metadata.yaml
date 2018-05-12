@@ -1,4 +1,5 @@
 _repo: The-Right-Way-the-Safe-Way-Proved-by-Emancipation-in-the-British-West-Indies-and-Elsewhere_50020
+_version: 0.1.0
 contributor:
   adapter:
     agent_name: Child, Lydia Maria
@@ -11,7 +12,12 @@ contributor:
     gutenberg_agent_id: '2732'
     url: http://www.gutenberg.org/2009/agents/2732
     wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
+covers:
+- cover_type: archival
+  image_path: 50020-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50020#The-Right-Way-the-Safe-Way-Proved-by-Emancipation-in-the-British-West-Indies-and-Elsewhere
 gutenberg_issued: '2015-09-20'
 gutenberg_type: Text
 identifiers:
